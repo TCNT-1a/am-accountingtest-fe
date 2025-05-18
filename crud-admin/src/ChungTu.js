@@ -179,7 +179,7 @@ export const ChungTuEdit = (props) => {
             target="chungTuId"
           >
             <Datagrid
-              rowClick={true}
+              rowClick="edit"
               
               // bulkActionButtons={
               //   <BulkDeleteButton
